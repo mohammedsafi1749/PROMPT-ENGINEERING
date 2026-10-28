@@ -195,7 +195,8 @@ High Computational Requirements: Training and running Generative AI models deman
 
 Ethical and Legal Concerns: It can be misused to create harmful content like deepfakes or fake news which can spread misinformation or violate privacy. These ethical and legal challenges require careful regulation and oversight to prevent abuse.
 
-<img width="531" height="711" alt="image" src="https://github.com/user-attachments/assets/2321ad4d-1f68-4029-8412-10ba86ba6e0f" />
+
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/fe531cdd-f256-40a8-93e9-90d2cdff95a2" />
 
 
 1. Self Attention Mechanism
