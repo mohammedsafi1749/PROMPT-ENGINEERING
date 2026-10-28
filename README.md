@@ -111,8 +111,7 @@ ________________________________________
 
 # Output
 
-<img width="1719" height="804" alt="image" src="https://github.com/user-attachments/assets/d23be37c-4114-4b59-b4ed-19318fd955ac" />
-
+<img width="1729" height="910" alt="image" src="https://github.com/user-attachments/assets/4e5b8300-382a-4000-9369-cfd6fc703cba" />
 
 
 Generative AI is a type of artificial intelligence designed to create new content such as text, images, music or even code by learning patterns from existing data. Unlike traditional AI systems that primarily analyze or classify data, generative AI models like GPT (for text) or DALL·E (for images) can produce original outputs that mimic human creativity. These models use techniques like deep learning and neural networks to generate content that is coherent, contextually relevant and often indistinguishable from that created by humans.
